@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <firstName>Tatiana</firstName>
+  <lastName>Sobolevskaya</lastName>
+  <surName>Yuryevna</surName>
+  <age>26</age>
+  <desiredSalary>1000</desiredSalary>
+  <desiredSalaryCurrency>USD</desiredSalaryCurrency>
+  <petsPresence>true</petsPresence>
+  <pets>
+    <petsNumber>1</petsNumber>
+    <petsType>Dog</petsType>
+    <petsName>Barney</petsName>
+  </pets>
+</root>
