@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Theory>Basic theory</Theory>
+  <Theory>HTTP</Theory>
+  <Theory>Json</Theory>
+  <Theory>XML</Theory>
+  <Theory>Logs</Theory>
+  <Theory>VPN</Theory>
+  <Theory>Mobile testing</Theory>
+  <Theory>Data bases</Theory>
+  <Theory>Scrum methodologies</Theory>
+  <Theory>Test design techniques</Theory>
+  <Practice>Api-testing</Practice>
+  <Practice>Devtools</Practice>
+  <Practice>Postman</Practice>
+  <Practice>SQL</Practice>
+  <Practice>Adb</Practice>
+  <Practice>Charles</Practice>
+  <Practice>Fiddler</Practice>
+  <Practice>Terminal</Practice>
+  <Practice>Postgres</Practice>
+  <Practice>Redis</Practice>
+  <Practice>Jmeter</Practice>
+  <Practice>Python</Practice>
+</root>
