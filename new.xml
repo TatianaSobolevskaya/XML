@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>
+<new>
   <firstName>Tatiana</firstName>
   <lastName>Sobolevskaya</lastName>
   <surName>Yuryevna</surName>
@@ -12,4 +12,4 @@
     <petsType>Dog</petsType>
     <petsName>Barney</petsName>
   </pets>
-</root>
+</new>
