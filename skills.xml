@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>
+<skills>
   <Theory>Basic theory</Theory>
   <Theory>HTTP</Theory>
   <Theory>Json</Theory>
@@ -22,4 +22,4 @@
   <Practice>Redis</Practice>
   <Practice>Jmeter</Practice>
   <Practice>Python</Practice>
-</root>
+</skills>
