@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>
+<bug_report>
   <Summary>Неверная формулировка текста подсказки под полем ввода email на странице авторизации</Summary>
   <Severity>Trivial</Severity>
   <Component>Authorization</Component>
@@ -21,4 +21,4 @@
     <System>Windows 11 Pro, версия 22H2</System>
   </Environment>
   <Assigned_To>Some business analyst</Assigned_To>
-</root>
+</bug_report>
